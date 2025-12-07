@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @Jefinnovation
+- 👋  Hi, I’m Jeff
 - 👀 I’m interested in ...building AI-powered automation tools, voice agents, and CRM systems that actually make people’s lives easier—especially in real estate, trades, and small business.
 - 🌱 I’m currently learning ...full-stack development through raw experimentation, Replit builds, Make.com automations, and Relevance AI agent design.
 - 💞️ I’m looking to collaborate on ...agentic AI tools, CRM workflows, automation logic, or anything that can help push my TrackHammer and PropTrack projects to production.
